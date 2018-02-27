@@ -441,5 +441,4 @@ $("#del").click(function(event){
 	$("#welcome").fadeIn();
 	localStorage.setItem('userData', JSON.stringify(userData));
 
-
 });
